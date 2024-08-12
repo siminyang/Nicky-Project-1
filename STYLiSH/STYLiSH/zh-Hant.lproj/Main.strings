@@ -1,0 +1,192 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "18b-Ia-ikf"; */
+"18b-Ia-ikf.text" = "Label";
+
+/* Class = "UILabel"; text = "庫存：5"; ObjectID = "26c-42-obU"; */
+"26c-42-obU.text" = "庫存：5";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "2rp-3w-OdJ"; */
+"2rp-3w-OdJ.text" = "1";
+
+/* Class = "UIButton"; configuration.title = "移除"; ObjectID = "3Wt-k1-TqH"; */
+"3Wt-k1-TqH.configuration.title" = "移除";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3Wt-k1-TqH"; */
+"3Wt-k1-TqH.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "選擇顏色"; ObjectID = "3X8-8L-VdK"; */
+"3X8-8L-VdK.text" = "選擇顏色";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "3hT-Kd-aaQ"; */
+"3hT-Kd-aaQ.text" = "1";
+
+/* Class = "UILabel"; text = "  "; ObjectID = "5ca-29-P8u"; */
+"5ca-29-P8u.text" = "  ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6DO-RN-hz5"; */
+"6DO-RN-hz5.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8JU-NP-AoZ"; */
+"8JU-NP-AoZ.text" = "Label";
+
+/* Class = "UILabel"; text = "M"; ObjectID = "A7i-iy-a7g"; */
+"A7i-iy-a7g.text" = "M";
+
+/* Class = "UILabel"; text = "|"; ObjectID = "AU8-pl-p3N"; */
+"AU8-pl-p3N.text" = "|";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Anc-5h-WxS"; */
+"Anc-5h-WxS.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "S"; ObjectID = "Cjg-Fo-izB"; */
+"Cjg-Fo-izB.text" = "S";
+
+/* Class = "UILabel"; text = "Section Title 1"; ObjectID = "Cyf-9u-DSm"; */
+"Cyf-9u-DSm.text" = "Section Title 1";
+
+/* Class = "UILabel"; text = "這行要放很多字~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`"; ObjectID = "EMr-Vc-4aK"; */
+"EMr-Vc-4aK.text" = "這行要放很多字~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "G6C-sZ-bxb"; */
+"G6C-sZ-bxb.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Hsq-LI-e1H"; */
+"Hsq-LI-e1H.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "IfB-WN-IXr"; */
+"IfB-WN-IXr.text" = "Price";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JFG-PS-K5G"; */
+"JFG-PS-K5G.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kpa-ID-OvK"; */
+"Kpa-ID-OvK.text" = "Label";
+
+/* Class = "UILabel"; text = "S"; ObjectID = "LNz-TW-9KO"; */
+"LNz-TW-9KO.text" = "S";
+
+/* Class = "UILabel"; text = "選擇數量"; ObjectID = "LOP-8E-SFC"; */
+"LOP-8E-SFC.text" = "選擇數量";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Mk6-TW-Jqd"; */
+"Mk6-TW-Jqd.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "N8n-1g-EwV"; */
+"N8n-1g-EwV.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NWa-Yt-5pt"; */
+"NWa-Yt-5pt.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Q7B-Xb-v8U"; */
+"Q7B-Xb-v8U.text" = "Label";
+
+/* Class = "UILabel"; text = "個人"; ObjectID = "R2R-w6-ftO"; */
+"R2R-w6-ftO.text" = "個人";
+
+/* Class = "UIButton"; configuration.title = "女裝"; ObjectID = "SAs-yy-tFV"; */
+"SAs-yy-tFV.configuration.title" = "女裝";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SAs-yy-tFV"; */
+"SAs-yy-tFV.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ta5-2H-oqE"; */
+"Ta5-2H-oqE.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "男裝"; ObjectID = "TvT-6B-pck"; */
+"TvT-6B-pck.configuration.title" = "男裝";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TvT-6B-pck"; */
+"TvT-6B-pck.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "選擇尺寸"; ObjectID = "XeN-fR-vtX"; */
+"XeN-fR-vtX.text" = "選擇尺寸";
+
+/* Class = "UILabel"; text = "Product.title"; ObjectID = "YLl-za-X1I"; */
+"YLl-za-X1I.text" = "Product.title";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Z2O-Aa-bgW"; */
+"Z2O-Aa-bgW.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "查看全部"; ObjectID = "bmo-Pd-DHU"; */
+"bmo-Pd-DHU.text" = "查看全部";
+
+/* Class = "UIButton"; configuration.title = "加入購物車"; ObjectID = "ca6-z7-Dc8"; */
+"ca6-z7-Dc8.configuration.title" = "加入購物車";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ca6-z7-Dc8"; */
+"ca6-z7-Dc8.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Product"; ObjectID = "dQc-st-Llg"; */
+"dQc-st-Llg.text" = "Product";
+
+/* Class = "UILabel"; text = "999"; ObjectID = "e5m-uI-i0v"; */
+"e5m-uI-i0v.text" = "999";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fkd-0j-K1m"; */
+"fkd-0j-K1m.text" = "Label";
+
+/* Class = "UILabel"; text = "型錄"; ObjectID = "gXS-5u-l0l"; */
+"gXS-5u-l0l.text" = "型錄";
+
+/* Class = "UIBarButtonItem"; title = "登出"; ObjectID = "hgs-ms-ela"; */
+"hgs-ms-ela.title" = "登出";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ixz-LA-lb5"; */
+"ixz-LA-lb5.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "加入購物車"; ObjectID = "jUm-dV-SzQ"; */
+"jUm-dV-SzQ.configuration.title" = "加入購物車";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jUm-dV-SzQ"; */
+"jUm-dV-SzQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "k0t-gg-11d"; */
+"k0t-gg-11d.text" = "Label";
+
+/* Class = "UILabel"; text = "XL"; ObjectID = "lqS-WD-jP0"; */
+"lqS-WD-jP0.text" = "XL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "m2k-z0-Efy"; */
+"m2k-z0-Efy.text" = "Label";
+
+/* Class = "UILabel"; text = "購物車"; ObjectID = "mgO-Ax-w4h"; */
+"mgO-Ax-w4h.text" = "購物車";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "myc-76-s88"; */
+"myc-76-s88.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "o6U-mT-wrh"; */
+"o6U-mT-wrh.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "qcn-Ip-qM7"; */
+"qcn-Ip-qM7.title" = "Item";
+
+/* Class = "UITextField"; text = "Your Name"; ObjectID = "qn5-GF-gws"; */
+"qn5-GF-gws.text" = "Your Name";
+
+/* Class = "UIButton"; configuration.title = "前往結帳"; ObjectID = "rQP-8B-0Li"; */
+"rQP-8B-0Li.configuration.title" = "前往結帳";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rQP-8B-0Li"; */
+"rQP-8B-0Li.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "配件"; ObjectID = "sR2-vm-zLc"; */
+"sR2-vm-zLc.configuration.title" = "配件";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sR2-vm-zLc"; */
+"sR2-vm-zLc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Product.price"; ObjectID = "tdr-tj-ov6"; */
+"tdr-tj-ov6.text" = "Product.price";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "u9U-DA-RBi"; */
+"u9U-DA-RBi.text" = "L";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wgJ-0r-heT"; */
+"wgJ-0r-heT.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wlZ-jJ-1cR"; */
+"wlZ-jJ-1cR.text" = "Label";
+
+/* Class = "UITabBarController"; title = "Stylish"; ObjectID = "xXx-AZ-nI4"; */
+"xXx-AZ-nI4.title" = "Stylish";
