@@ -2,8 +2,7 @@
 //  UIImage+Extension.swift
 //  STYLiSH
 //
-//  Created by WU CHIH WEI on 2019/2/11.
-//  Copyright © 2019 WU CHIH WEI. All rights reserved.
+//  Created by Nicky Y on 2024/8/12.
 //
 
 import UIKit

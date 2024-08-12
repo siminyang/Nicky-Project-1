@@ -30,7 +30,6 @@
 		3CAB687C2C5CCB040050AD77 /* STOrderUserInputCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3CAB686F2C5CCB040050AD77 /* STOrderUserInputCell.xib */; };
 		3CAB687D2C5CCB040050AD77 /* STPaymentInfoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAB68702C5CCB040050AD77 /* STPaymentInfoTableViewCell.swift */; };
 		3CAB687E2C5CCB040050AD77 /* STPaymentInfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3CAB68712C5CCB040050AD77 /* STPaymentInfoTableViewCell.xib */; };
-		3CAB687F2C5CCB040050AD77 /* UIImage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAB68732C5CCB040050AD77 /* UIImage+Extension.swift */; };
 		3CAB68892C5E68C20050AD77 /* TPDirectSDK in Frameworks */ = {isa = PBXBuildFile; productRef = 3CAB68882C5E68C20050AD77 /* TPDirectSDK */; };
 		3CAB688E2C60F3A00050AD77 /* FacebookLogin in Frameworks */ = {isa = PBXBuildFile; productRef = 3CAB688D2C60F3A00050AD77 /* FacebookLogin */; };
 		3CAB68902C60FAFF0050AD77 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAB688F2C60FAFF0050AD77 /* LoginViewController.swift */; };
@@ -46,6 +45,7 @@
 		3CC306EC2C50F96B001AB433 /* HomeDetailImageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CC306EB2C50F96B001AB433 /* HomeDetailImageCell.swift */; };
 		3CC306EE2C50F997001AB433 /* HomeDetailDescriptionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CC306ED2C50F997001AB433 /* HomeDetailDescriptionCell.swift */; };
 		3CC692D12C65A81A00F466DF /* KeychainManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CC692D02C65A81A00F466DF /* KeychainManager.swift */; };
+		3CC692DE2C69A34800F466DF /* UIImage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CC692DD2C69A34800F466DF /* UIImage+Extension.swift */; };
 		3CCCA39A2C47B5D700F9F46E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CCCA3992C47B5D700F9F46E /* AppDelegate.swift */; };
 		3CCCA39C2C47B5D700F9F46E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CCCA39B2C47B5D700F9F46E /* SceneDelegate.swift */; };
 		3CCCA39E2C47B5D700F9F46E /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CCCA39D2C47B5D700F9F46E /* HomeViewController.swift */; };
@@ -87,7 +87,6 @@
 		3CAB686F2C5CCB040050AD77 /* STOrderUserInputCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = STOrderUserInputCell.xib; sourceTree = "<group>"; };
 		3CAB68702C5CCB040050AD77 /* STPaymentInfoTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STPaymentInfoTableViewCell.swift; sourceTree = "<group>"; };
 		3CAB68712C5CCB040050AD77 /* STPaymentInfoTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = STPaymentInfoTableViewCell.xib; sourceTree = "<group>"; };
-		3CAB68732C5CCB040050AD77 /* UIImage+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIImage+Extension.swift"; path = "../../../../../../week-2 (by Aug 4th)/part-4/week_3_part_5_practice/week_3_part_5_practice/UIImage+Extension.swift"; sourceTree = "<group>"; };
 		3CAB68852C5E67BC0050AD77 /* TPDirect.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = TPDirect.xcframework; sourceTree = SOURCE_ROOT; };
 		3CAB688A2C5E68F50050AD77 /* Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Bridging-Header.h"; sourceTree = "<group>"; };
 		3CAB688B2C60D4180050AD77 /* STYLiSH.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = STYLiSH.entitlements; sourceTree = "<group>"; };
@@ -105,6 +104,7 @@
 		3CC306ED2C50F997001AB433 /* HomeDetailDescriptionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeDetailDescriptionCell.swift; sourceTree = "<group>"; };
 		3CC692CF2C64B01900F466DF /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Main.strings"; sourceTree = "<group>"; };
 		3CC692D02C65A81A00F466DF /* KeychainManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeychainManager.swift; sourceTree = "<group>"; };
+		3CC692DD2C69A34800F466DF /* UIImage+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+Extension.swift"; sourceTree = "<group>"; };
 		3CCCA3962C47B5D700F9F46E /* STYLiSH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = STYLiSH.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CCCA3992C47B5D700F9F46E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3CCCA39B2C47B5D700F9F46E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -194,9 +194,9 @@
 			isa = PBXGroup;
 			children = (
 				3CAB68672C5CCB040050AD77 /* UIColor+Extension.swift */,
-				3CAB68732C5CCB040050AD77 /* UIImage+Extension.swift */,
 				3CAB68692C5CCB040050AD77 /* UITableView+Extension.swift */,
 				3CAB68682C5CCB040050AD77 /* ViewController.swift */,
+				3CC692DD2C69A34800F466DF /* UIImage+Extension.swift */,
 			);
 			path = CheckOutPage;
 			sourceTree = "<group>";
@@ -578,7 +578,6 @@
 				3CC306EA2C50F2CF001AB433 /* HomeDetailViewController.swift in Sources */,
 				3C73C1C42C48E50200572589 /* Type2Cell.swift in Sources */,
 				3CAB68962C622A990050AD77 /* LogOutViewController.swift in Sources */,
-				3CAB687F2C5CCB040050AD77 /* UIImage+Extension.swift in Sources */,
 				3CC306EE2C50F997001AB433 /* HomeDetailDescriptionCell.swift in Sources */,
 				3CE4938C2C575E9B00136199 /* AddToCartSizeCell.swift in Sources */,
 				3CE493842C564CAC00136199 /* AddToCartViewController.swift in Sources */,
@@ -604,6 +603,7 @@
 				3CCCA39E2C47B5D700F9F46E /* HomeViewController.swift in Sources */,
 				3CAB687B2C5CCB040050AD77 /* STOrderUserInputCell.swift in Sources */,
 				3CE493882C573E1100136199 /* CustomPresentationController.swift in Sources */,
+				3CC692DE2C69A34800F466DF /* UIImage+Extension.swift in Sources */,
 				3CC692D12C65A81A00F466DF /* KeychainManager.swift in Sources */,
 				3C7A02222C4E1BBC003830CC /* CatalogCell.swift in Sources */,
 				3CAB68922C60FB380050AD77 /* TabBarViewController.swift in Sources */,
